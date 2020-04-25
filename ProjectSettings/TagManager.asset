@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Coin
+  - Ground
+  - GroundChecker
+  - Enemy
+  - Key
+  - Door
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Tiles
+  - 
+  - 
+  - Projectiles
+  - Enemies
+  - 
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 3964967539
+    locked: 0
+  - name: Tiles
+    uniqueID: 1475283759
+    locked: 0
+  - name: Projectiles
+    uniqueID: 2685253607
+    locked: 0
+  - name: Enemies
+    uniqueID: 2307653037
+    locked: 0
